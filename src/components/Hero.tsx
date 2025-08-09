@@ -14,30 +14,30 @@ const Hero = () => {
         <div className="flex items-center justify-center mb-6">
           <div className="flex items-center space-x-2 bg-card/50 backdrop-blur-sm border border-border rounded-full px-4 py-2">
             <Sparkles className="w-4 h-4 text-primary" />
-            <span className="text-sm text-muted-foreground">Ready to build amazing things</span>
+            <span className="text-sm text-muted-foreground">Professional Crypto Recovery Services</span>
           </div>
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-foreground to-foreground/70 bg-clip-text text-transparent">
-          Your Blank Canvas
+          Recover Your Lost
           <br />
           <span className="bg-gradient-primary bg-clip-text text-transparent">
-            Awaits
+            Crypto Funds
           </span>
         </h1>
 
         <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-          Start building your next amazing project with a beautiful, modern foundation. 
-          Clean design, smooth animations, and endless possibilities.
+          Tech-savvy lawyers specialized in cryptocurrency fraud recovery. 
+          We help victims recover lost funds from crypto scams with minimum $1,000 cases.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <Button variant="hero" className="group">
-            Get Started
+            Start Recovery Process
             <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </Button>
           <Button variant="outline" size="lg">
-            Learn More
+            Free Consultation
           </Button>
         </div>
 
@@ -48,9 +48,9 @@ const Hero = () => {
                 <div className="w-12 h-12 bg-gradient-primary rounded-xl mx-auto mb-4 flex items-center justify-center">
                   <Sparkles className="w-6 h-6 text-primary-foreground" />
                 </div>
-                <h3 className="font-semibold mb-2">Modern Design</h3>
+                <h3 className="font-semibold mb-2">Expert Legal Team</h3>
                 <p className="text-muted-foreground text-sm">
-                  Beautiful gradients and smooth animations
+                  Tech-savvy lawyers with crypto expertise
                 </p>
               </div>
               
@@ -58,9 +58,9 @@ const Hero = () => {
                 <div className="w-12 h-12 bg-gradient-primary rounded-xl mx-auto mb-4 flex items-center justify-center">
                   <Sparkles className="w-6 h-6 text-primary-foreground" />
                 </div>
-                <h3 className="font-semibold mb-2">Responsive</h3>
+                <h3 className="font-semibold mb-2">Proven Results</h3>
                 <p className="text-muted-foreground text-sm">
-                  Looks perfect on every device
+                  Successfully recovered millions in lost funds
                 </p>
               </div>
               
@@ -68,9 +68,9 @@ const Hero = () => {
                 <div className="w-12 h-12 bg-gradient-primary rounded-xl mx-auto mb-4 flex items-center justify-center">
                   <Sparkles className="w-6 h-6 text-primary-foreground" />
                 </div>
-                <h3 className="font-semibold mb-2">Ready to Build</h3>
+                <h3 className="font-semibold mb-2">Minimum $1,000</h3>
                 <p className="text-muted-foreground text-sm">
-                  Start developing immediately
+                  We handle substantial recovery cases only
                 </p>
               </div>
             </div>

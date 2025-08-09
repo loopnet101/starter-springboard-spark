@@ -9,24 +9,24 @@ const Header = () => {
             <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">A</span>
             </div>
-            <span className="text-xl font-semibold">YourApp</span>
+            <span className="text-xl font-semibold">LoopNet Recovery</span>
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">
-            <a href="#" className="text-foreground/80 hover:text-foreground transition-colors">
-              Features
+            <a href="#services" className="text-foreground/80 hover:text-foreground transition-colors">
+              Services
             </a>
-            <a href="#" className="text-foreground/80 hover:text-foreground transition-colors">
-              About
+            <a href="#team" className="text-foreground/80 hover:text-foreground transition-colors">
+              Our Team
             </a>
-            <a href="#" className="text-foreground/80 hover:text-foreground transition-colors">
+            <a href="#contact" className="text-foreground/80 hover:text-foreground transition-colors">
               Contact
             </a>
           </nav>
 
           <div className="flex items-center space-x-4">
-            <Button variant="ghost">Sign In</Button>
-            <Button variant="default">Get Started</Button>
+            <Button variant="ghost">Case Consultation</Button>
+            <Button variant="default">Start Recovery</Button>
           </div>
         </div>
       </div>
